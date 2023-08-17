@@ -4,6 +4,8 @@
 
 
 ## Overview
+(A statement of need
+The authors should clearly state what problems the software is designed to solve, who the target audience is, and its relation to other work.)
 
 This is a repository for publishing “An Open-Source Tool for Updating ICESat-2 ATL03 Land-Sea Masks with High-Resolution Shoreline Datasets”
 
