@@ -43,7 +43,7 @@ Feel free to open an issue if you encounter any problems or have any suggestions
 
 ## License
 
-Include information about the licensing for the software.
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
 
 ## Citation
 
