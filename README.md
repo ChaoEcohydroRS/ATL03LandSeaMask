@@ -9,6 +9,13 @@ This is a repository for publishing “An Open-Source Tool for Updating ICESat-2
 
 The ATL03LandSeaMask is a tool designed to Update ICESat-2 ATL03 Land Sea Mask with high-resolution shoreline dataset. This repository is home to the code and materials for the publication "An Open-Source Tool for Updating ICESat-2 ATL03 Land-Sea Masks with High-Resolution Shoreline Datasets."
 
+## Main subject of the paper
+The main subject of this paper is to develop an open-source tool for updating ICESat-2 ATL03 Land-Sea Masks with high-resolution shoreline datasets. Specifically, the tool focuses on:
+
+Processing ICESat-2 h5 Files: Sorting ICEsat-2 h5 files based on photon return signature, which is a unique characteristic of the light signal received by the satellite.
+Landmask Application: Applying a landmask to h5 files to remove data points likely taken from land, enhancing the analysis of water bodies.
+The paper likely discusses the methodology, implementation, and applications of this tool, providing insights into the enhancement of ICESat-2 data processing and analysis.
+
 ## Features
 
 - **Processing ICESat-2 h5 Files**: The tool enables the sorting of ICEsat-2 h5 files based on photon return signature.
