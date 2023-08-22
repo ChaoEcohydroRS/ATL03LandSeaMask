@@ -1,0 +1,14 @@
+name: atl03landseamask
+channels:
+  - defaults
+dependencies:
+  - jupyter
+  - pillow
+  - python>=3.6
+  - bokeh
+  - plotly
+  - rasterio
+  - geopandas
+  - scikit-learn
+  - conda-forge::descartes
+  - pip
