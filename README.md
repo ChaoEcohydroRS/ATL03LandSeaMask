@@ -37,11 +37,11 @@ To use this tool, follow the instructions below:
 
 ### Installation
 
-- Step-by-step instructions on how to install the tool.
+- Run conda env create -f environment.yml
 
 ### Usage
 
-- Provide examples of how to use the tool.
+- All steps in our work are presented either in Jupyter Notebooks or individual scripts
 
 ## Support and Contribution
 
