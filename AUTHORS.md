@@ -1,7 +1,5 @@
-**Main author:** Chao Wang (`@ChaoEcohydroRS <https://github.com/ChaoEcohydroRS>`_)
-
-All contributors (alphabetical last name):
-
+**Main author:** 
+* Chao Wang ([@ChaoEcohydroRS](https://github.com/ChaoEcohydroRS))
 * Emily Eidam
 * Tamlin Pavelsky
 * Kelsey Bisson
