@@ -32,8 +32,8 @@ To use this tool, follow the instructions below:
 
 ### 1) Prerequisites
 
-- I used VS code python IDE as the working environment. We used jupyter notebook version for illustating how to use it. You can alwasy easily convert it to pipline.
-- The global coastal shoreline dataset.
+- I used VS code python IDE as the working environment. We used jupyter notebook version for illustrating how to use it. You can always easily convert it to pipeline.
+- The global coastal shoreline dataset [link here](https://drive.google.com/file/d/1arIVNVQoaH3ffZOHSGZvFmjgSjGeR85e/view?usp=sharing).
 
 ### 2) Installation
 
