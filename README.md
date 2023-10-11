@@ -30,17 +30,18 @@ The main subject of the paper is to develop and introduce an open-source tool na
 
 To use this tool, follow the instructions below:
 
-### Prerequisites
+### 1) Prerequisites
 
-- List the software dependencies and requirements here.
+- I used VS code python IDE as the working environment. We used jupyter notebook version for illustating how to use it. You can alwasy easily convert it to pipline.
+- The global coastal shoreline dataset.
 
-### Installation
+### 2) Installation
 
 - Run conda env create -f environment.yml
 
-### Usage
+### 3) Usage
 
-- All steps in our work are presented either in Jupyter Notebooks or individual scripts
+- All steps in our work are presented in Jupyter Notebooks
 
 ## Support and Contribution
 
@@ -51,9 +52,9 @@ Feel free to open an issue if you encounter any problems or have any suggestions
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
 
 ## Citation
-
-If you use this software in your research, please cite the associated paper using the DOI provided above.
+If you use this software in your research, please cite the associated paper using the DOI provided below.
+Chao Wang, Emily Eidam, Tamlin Pavelsky, Kelsey Bisson, & Catherine Walker. (2023). An Open-Source Tool for Updating ICESat-2 ATL03 Land-Sea Masks with High-Resolution Shoreline Datasets (v1.0.2). Zenodo. https://doi.org/10.5281/zenodo.8245306
 
 ## Acknowledgments
 
-- Include acknowledgments if necessary.
+- This research was funded by NASA's ICESat-2 Program (grant number: 80NSSC21K0914).
