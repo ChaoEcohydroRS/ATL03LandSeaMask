@@ -33,7 +33,17 @@ To use this tool, follow the instructions below:
 ### 1) Prerequisites
 
 - I used VS code python IDE as the working environment. We used jupyter notebook version for illustrating how to use it. You can always easily convert it to pipeline.
-- The global coastal shoreline dataset [link here](https://drive.google.com/file/d/1arIVNVQoaH3ffZOHSGZvFmjgSjGeR85e/view?usp=sharing).
+
+- **Global Coastal Shoreline Dataset**: We utilized the **High resolution (30m) Global Shoreline Vector Dataset**. 
+  - [Download Dataset](https://drive.google.com/file/d/1arIVNVQoaH3ffZOHSGZvFmjgSjGeR85e/view?usp=sharing)
+  
+- **Credit**:
+  > Sayre, R., S. Noble, S. Hamann, R. Smith, D. Wright, S. Breyer, K. Butler, K. Van Graafeiland, C. Frye, D. Karagulle, D. Hopkins, D. Stephens, K. Kelly, Z. Basher, D. Burton, J. Cress, K. Atkins, D. Van Sistine, B. Friesen, R. Allee, T. Allen, P. Aniello, I. Asaad, M. Costello, K. Goodin, P. Harris, M. Kavanaugh, H. Lillis, E. Manca, F. Muller-Karger, B. Nyberg, R. Parsons, J. Saarinen, J. Steiner, and A. Reed. 2019. A new 30 meter resolution global shoreline vector and associated global islands database for the development of standardized ecological coastal units. Journal of Operational Oceanography, 12:sup2, S47-S56, DOI: 10.1080/1755876X.2018.1529714
+
+- **Alternative Dataset**: 
+  - You may also consider using shoreline data from the **NOAA Composite Shoreline**. 
+    - [View Dataset](https://shoreline.noaa.gov/data/datasheets/composite.html)
+
 
 ### 2) Installation
 
