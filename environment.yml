@@ -3,12 +3,19 @@ channels:
   - defaults
 dependencies:
   - jupyter
+  - re
+  - os
+  - copy
+  - h5py
+  - pandas
+  - geopandas
+  - matplotlib
+  - shapely
   - pillow
   - python>=3.6
   - bokeh
   - plotly
   - rasterio
-  - geopandas
   - scikit-learn
   - conda-forge::descartes
   - pip
