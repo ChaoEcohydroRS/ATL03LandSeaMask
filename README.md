@@ -16,11 +16,10 @@ This is a repository for publishing “An Open-Source Tool for Updating ICESat-2
 The ATL03LandSeaMask is a tool designed to Update ICESat-2 ATL03 Land Sea Mask with high-resolution shoreline dataset. This repository is home to the code and materials for the publication "An Open-Source Tool for Updating ICESat-2 ATL03 Land-Sea Masks with High-Resolution Shoreline Datasets."
 
 ## Main subject of the paper
-The main subject of the paper is to develop and introduce an open-source tool named "SeaIdentifier". By integrating ICESat-2 photon data with high-resolution land-sea mask datasets, SeaIdentifier allows users to visualize and accurately inspect photon returns along shorelines. This work contributes to making ICESat-2 data more accessible and user-friendly for both ocean and terrestrial communities, and it is anticipated to be instrumental in the creation of future "Ancillary Masks" products for ICESat-2 data.
+The main subject of the paper is to develop and introduce an open-source tool named "SeaLandIdentifier". By integrating ICESat-2 photon data with high-resolution land-sea mask datasets, SeaLandIdentifier allows users to visualize and accurately inspect photon returns along shorelines. This work contributes to making ICESat-2 data more accessible and user-friendly for both ocean and terrestrial communities, and it is anticipated to be instrumental in the creation of future "Ancillary Masks" products for ICESat-2 data.
 1) Processing ICESat-2 h5 Files: Sorting ICEsat-2 h5 files based on photon return signature, which is a unique characteristic of the light signal received by the satellite.
 2) Landmask Application: Applying a landmask to h5 files to remove data points likely taken from land, enhancing the analysis of water bodies.
-3) 
-The paper discusses the methodology, implementation, and applications of this tool, providing insights into the enhancement of ICESat-2 data processing and analysis.
+3) The paper discusses the methodology, implementation, and applications of this tool, providing insights into the enhancement of ICESat-2 data processing and analysis.
 
 ## Features
 
