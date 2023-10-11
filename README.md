@@ -1,4 +1,4 @@
-# ATL03LandSeaMask
+# An Open-Source Tool for Updating ICESat-2 ATL03 Land-Sea Masks with High-Resolution Shoreline Datasets (ATL03LandSeaMask)
 
 [![DOI](https://zenodo.org/badge/678219089.svg)](https://zenodo.org/badge/latestdoi/678219089)
 ## Abstract
