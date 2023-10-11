@@ -1,11 +1,9 @@
 name: atl03landseamask
 channels:
+  - conda-forge
   - defaults
 dependencies:
   - jupyter
-  - re
-  - os
-  - copy
   - h5py
   - pandas
   - geopandas
@@ -13,9 +11,7 @@ dependencies:
   - shapely
   - pillow
   - python>=3.6
-  - bokeh
   - plotly
   - rasterio
   - scikit-learn
-  - conda-forge::descartes
-  - pip
+  - descartes
